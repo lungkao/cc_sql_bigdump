@@ -1,7 +1,10 @@
 # BigDump Modern SQL Importer
 
 A modern SQL file importer built with PHP and JavaScript featuring a beautiful UI and easy-to-use interface.
+If you find BigDump Modern SQL Importer
+ helpful, you can support the developer by buying a coffee:
 
+👉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://buymeacoffee.com/cheuachatchai" >![buy_me_a_coffee](https://github.com/conseilgouz/plg_system_cgwebp_j4/assets/19435246/4fda4cb5-64f1-4717-81ae-c71a0fc26c2d)</a>
 ## ✨ Features
 
 - **Drag & Drop**: Simply drag and drop SQL files
